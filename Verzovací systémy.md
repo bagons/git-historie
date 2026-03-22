@@ -32,3 +32,18 @@ Pak jde údajně najít v binárce podle `@(#)`
 - žádné symlinky z bezpečnostních důvodů
 
 *těch verzovacích systémů bylo ještě pár, třeba jako [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion)*
+
+### [BitKeeper](https://en.wikipedia.org/wiki/BitKeeper)
+
+- 2000
+- vyvíjená - soukromou společností
+- linux kernel se pomocí něho verzoval
+- 2005 přestal být zadarmo, takže Linus Torwalds začal vyvýjet GIT
+
+# [GIT](https://en.wikipedia.org/wiki/Git)
+
+- distribuovaný, každý má svou kopii
+- *the information manager from hell*
+- v dnešní době standard
+
+![[Git_operations.svg.png]]
